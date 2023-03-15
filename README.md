@@ -1,7 +1,6 @@
-### Hi there 👋
+Recently graduated from Le Wagon intensive coding bootcamp
 
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning 
 <p align="left">  
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/> </a>
